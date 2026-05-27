@@ -1,6 +1,6 @@
 # Hi, I'm Niklas Knobel
 
-I am a mathematics researcher with a background in  PDEs, asymptotic methods, mathematical modelling, stochastic analysis, and machine learning. My current focus is on applying rigorous mathematical and statistical methods to quantitative finance, systematic investing, and market microstructure.
+I am a mathematics researcher with a background in  PDEs, asymptotic methods, mathematical modelling, stochastic analysis, and machine learning. 
 
 I completed my PhD in Mathematics at Karlsruhe Institute of Technology and am currently a Research Associate at Imperial College London. My academic work focuses on stability, instability, nonlinear dynamics, and perturbative methods in fluid-type equations.
 
@@ -24,19 +24,3 @@ A simulation framework for inventory-aware market making under stochastic price 
 - Studied the effect of inventory control on strategy stability and risk-adjusted performance
 
 Repository: [AvellanedaStoikov](https://github.com/Niklas6/AvellanedaStoikov)
-
-## Technical interests
-
-- Quantitative research
-- Empirical asset pricing
-- Machine learning for financial markets
-- Market microstructure and market making
-- Stochastic processes and Monte Carlo simulation
-- PDEs, stability theory, and asymptotic analysis
-
-
-## Links
-
-- [Google Scholar](YOUR_GOOGLE_SCHOLAR_LINK)
-- [LinkedIn](YOUR_LINKEDIN_LINK)
-- [CV](OPTIONAL_CV_LINK)
