@@ -4,7 +4,7 @@ I am a mathematics researcher with a background in  PDEs, mathematical modelling
 
 I completed my PhD in Mathematics at Karlsruhe Institute of Technology and am currently a Research Associate at Imperial College London. My academic work focuses on stability, instability, nonlinear dynamics, and perturbative methods in fluid-type equations.
 
-## Quantitative finance projects
+## Computational projects
 
 ### Empirical ML Equity Return Prediction
 A Python research pipeline for next-month equity return prediction using lagged returns, volatility, and market beta features.
