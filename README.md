@@ -1,6 +1,6 @@
 # Hi, I'm Niklas Knobel
 
-I am a mathematics researcher with a background in  PDEs, asymptotic methods, mathematical modelling, stochastic analysis, and machine learning. 
+I am a mathematics researcher with a background in  PDEs, mathematical modelling, stochastic analysis, and machine learning. 
 
 I completed my PhD in Mathematics at Karlsruhe Institute of Technology and am currently a Research Associate at Imperial College London. My academic work focuses on stability, instability, nonlinear dynamics, and perturbative methods in fluid-type equations.
 
