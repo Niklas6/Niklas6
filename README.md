@@ -7,7 +7,7 @@ I completed my PhD in Mathematics at Karlsruhe Institute of Technology and am cu
 ## Computational projects
 
 ### Empirical ML Equity Return Prediction
-A Python research pipeline for next-month equity return prediction using lagged returns, volatility, and market beta features.
+A Python research pipeline for predicting next-month equity returns using lagged returns, volatility, and market beta features.
 
 - Built a monthly stock-level prediction dataset from historical market data
 - Compared Ridge, Random Forest, Extra Trees, XGBoost, and LightGBM models
@@ -27,6 +27,6 @@ Repository: [AvellanedaStoikov](https://github.com/Niklas6/AvellanedaStoikov)
 
 
 ### Mini_GPT
-A small-scale GPT language model. The model predicts the next character based on the previous characters building on the 'Attention is all you need' paper.
+A small-scale GPT language model. The model predicts the next character based on the previous characters, building on the 'Attention is all you need' paper.
 
 Repository: [MiniGPT](https://github.com/Niklas6/Mini_GPT)
