@@ -28,4 +28,5 @@ Repository: [AvellanedaStoikov](https://github.com/Niklas6/AvellanedaStoikov)
 
 ### Mini_GPT
 A small-scale GPT language model. The model predicts the next character based on the previous characters building on the 'Attention is all you need' paper.
+
 Repository: [MiniGPT](https://github.com/Niklas6/Mini_GPT)
