@@ -1,8 +1,8 @@
 # Hi, I'm Niklas Knobel
 
-I am a mathematics researcher with a background in  PDEs, mathematical modelling, stochastic analysis, and machine learning. 
+I am a researcher in Mathematics with a background in  PDEs, mathematical modelling, stochastic analysis, and machine learning. 
 
-I completed my PhD in Mathematics at Karlsruhe Institute of Technology and am currently a Research Associate at Imperial College London. My academic work focuses on stability, instability, nonlinear dynamics, and perturbative methods in fluid-type equations.
+I completed my PhD in Mathematics at Karlsruhe Institute of Technology and am currently a Research Associate at Imperial College London. My academic work focuses on the nonlinear dynamics of plasma equations.
 
 ## Computational projects
 
@@ -24,3 +24,7 @@ A simulation framework for inventory-aware market making under stochastic price 
 - Studied the effect of inventory control on strategy stability and risk-adjusted performance
 
 Repository: [AvellanedaStoikov](https://github.com/Niklas6/AvellanedaStoikov)
+
+
+### Mini_GPT
+A small-scale GPT language model. The model predicts the next character based on the previous characters building on the Attention is all you need paper.
